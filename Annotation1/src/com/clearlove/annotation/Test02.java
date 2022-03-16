@@ -34,6 +34,7 @@ public class Test02 {
 // Documented 表示是否将我们的注解生成在JAVAdoc中
 @Documented
 
+
 // @Inherited 子类可以继承父类的注解
 @Inherited
 @interface MyAnnotation {
